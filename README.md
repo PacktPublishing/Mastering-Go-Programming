@@ -1,22 +1,24 @@
 # Mastering Go Programming [Video]
 This is the code repository for [Mastering Go Programming [Video]](https://www.packtpub.com/application-development/mastering-go-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781786468239), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Go is an open source programming language that makes it easy to build simple, reliable, and efficient applications. This course will be your one stop guide to master the core concepts of Go programming.You will begin by getting an overview of the language before organizing the Go workflows. You will then understand the concepts of OOP with Golang and will learn to use interfaces in Golang. From here, you will be introduced to Functional and Reactive programming with Go. You will then learn to work with the web and will learn microservices in Go. Going forward, you will learn about topics such as Concurrency, parallelism, and Error Handling. From here, you will learn how to evaluate performance with profiling, extracting the best performance from your Go programs without sacrificing readability, and attacking the bottlenecks of your program. You’ll understand vendoring, reproducible builds, reflection, and will learn how to access C functions with a simple Go call. Then, you will be introduced to design patterns and techniques with Golang, good coding practices, and will learn to write idiomatic Go code. Finally, you will learn to test and debug your application.By the end of the video, you will be adept with the knowledge to build robust and scalable applications with Go.
+Go has moved from the state of tentative to mass adoption. Its C-like speed, simplicity, and power for a growing number of systems level programming domains make it an attractive option for programmers working with older cumbersome, statically typed languages. Golang has entered the space as an entirely viable language for accomplishing a huge array of low level programming and service infrastructure tasks.
+This video course not only gives you a deep insight into the fundamental mechanics behind the language, but also covers extensive practical topics on Go for modern software architectures. It shows you how to write Go in an intelligent, idiomatic way. After a brief re-acquaintance with the key building blocks of Go, we will also explore how we can build upon the unique capabilities of the language to write effective, powerful code you can employ to develop software. We look at packages, object-oriented programming, concurrency and reflection among other things. Moreover, you will learn about Go’s awesome built-in testing support feature. Along the way, build your skills in File handling techniques, Go packages for databases, data serialization approaches, message communications between Go services, and Go web applications. Get your hands on with a plenty of illustrative code samples, exercises and real-world scenarios that will help you build your own application.
+By the end of this course, you will be taught how to put this enhanced knowledge to build a real-world Spaceship application all by yourself with amazing features.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Prepare data for machine learning methods with ease</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Learn to write production-ready code and package it for use </SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Produce simple and effective data visualizations for improved insights</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Master advanced methods such as Boosted Trees and deep neural networks</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Use natural language processing to extract insights for text</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Implement tree-based classifiers including Random Forest and Boosted Tree</SPAN> </LI></UL></DIV>
+<LI>Get started writing basic algorithms with the key building blocks
+<LI>Create your own application on a spaceship called Hydra with scalable microservices
+<LI>Begin developing the back end of your application with advanced-level programs
+<LI>Master Go’s topics to build a chat system
+<LI>Write unit tests using Go’s built-in testing support for discovering issues in the software 
+<LI>Build powerful web services that give Hydra more UI and security</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This video is for developers who would like to master their programming skills with Golang. Prior knowledge of Golang is assumed.
+This video is for experienced programmers with a background in any other language—this being from Ruby to C or JavaScript. If you are a fast learner who is well versed in the programmatic logic with a bit of basic understanding in Go, this course is for you.	
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Go
